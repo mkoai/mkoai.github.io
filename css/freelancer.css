@@ -462,3 +462,7 @@ footer .footer-below {
 .profile {
     margin-bottom: 25px;
 }
+
+#team h2 {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;  
+}
