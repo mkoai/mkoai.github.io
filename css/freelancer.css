@@ -457,3 +457,8 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+.profile {
+    margin-left: auto;
+    margin-right: auto;
+}
